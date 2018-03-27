@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f04dd07e12e68c4a9dc27d415bf20c1, type: 3}
+  m_Name: RarityTypeUnique
+  m_EditorClassIdentifier: 
+  _rarityName: Unique
+  _rarityColor: {r: 1, g: 1, b: 1, a: 1}
+  _chanceToSpawn: 0.009
+  _minDamage: 4
+  _maxDamage: 6
+  _minRange: 4
+  _maxRange: 5
+  _minFireRate: 4
+  _maxFireRate: 5
